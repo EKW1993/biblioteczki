@@ -1,0 +1,22 @@
+
+[
+    {
+      "id": 1,
+      "title": "Quo vadis",
+      "author": "Henryk Sienkiewicz",
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "title": "Ogniem i mieczem",
+      "author": "Henryk Sienkiewicz",
+      "year": 2022
+    },
+    {
+        "id": 3,
+        "title": "Lalka",
+        "author": "Bolesław Prus",
+        "year": 2021
+      }
+  ]
+
